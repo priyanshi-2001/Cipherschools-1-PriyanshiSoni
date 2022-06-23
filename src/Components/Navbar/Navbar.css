@@ -1,0 +1,18 @@
+.navbar_container{
+    width:1527px;
+    height:150px;
+    
+    background-color:red;
+   justify-content: center;
+     display: flex;
+     margin-bottom:600px;
+    
+}
+.navbar_container > img{
+height:40%;
+
+}
+.banner_input{
+    height:37%;
+    width:60%;
+}
